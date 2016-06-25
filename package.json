@@ -19,6 +19,7 @@
     "babel-preset-stage-2": "^6.5.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
+    "react-redux": "^4.4.5",
     "redux": "^3.5.2",
     "redux-logger": "^2.6.1",
     "webpack": "^1.13.1"
