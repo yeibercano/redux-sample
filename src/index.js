@@ -1,12 +1,8 @@
 import React, { Component } from 'react'
 import { render } from 'react-dom';
 
-class App extends Component {
-    render() {
-        return (
-         <h1> test </h1>
-        )
-    }
-}
+import { Provider } from 'react-redux'
+import { createStore } from 'redux'
+
 
 render(<App/>, document.getElementById('app'))
